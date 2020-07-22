@@ -273,7 +273,7 @@ pre {
 $ git commit -a -m 'Some commit message'
 $ git push</pre>
 
-<p>After pushing changes disco, you'll need to manually trigger a build if you did not setup a webhook as described above.</p>
+<p>After pushing changes, you'll need to manually trigger a build if you did not setup a webhook as described above.</p>
       </section>
           </section>
           <section class="col-xs-12 col-sm-6 col-md-6">
